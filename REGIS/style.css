@@ -1,0 +1,22 @@
+body {
+  font: 14px sans-serif;
+}
+
+.background {
+  align-items: center;
+  background-color: rgb(122, 241, 202);
+}
+
+.heading {
+  color: rgb(211, 19, 58);
+}
+
+.head {
+  padding-left: 150px;
+}
+
+.my-5 {
+  align-items: center;
+  padding: 200px;
+  font-weight: 700;
+}/*# sourceMappingURL=style.css.map */
