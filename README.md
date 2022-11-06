@@ -1,5 +1,5 @@
 # guvi-project
 
-register page
-login page
-profile page
+-register page
+-login page
+-profile page
